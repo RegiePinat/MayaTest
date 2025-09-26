@@ -27,3 +27,13 @@ Use the following credentials to log in:
 Username: admin
 
 Password: 1234
+
+
+
+
+ARCHITECTURE USED:
+ CLEAN SWIFT  
+<img width="784" height="420" alt="Screenshot 2025-09-26 at 11 29 28 AM" src="https://github.com/user-attachments/assets/a00bc5ba-7e6e-4d08-9651-f637edc87434" />
+
+
+ 
