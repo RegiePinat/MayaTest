@@ -1,4 +1,4 @@
-*Project Files are in exambranch
+Project Files are in exambranch
 
 Getting Started
 
